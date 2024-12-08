@@ -155,10 +155,6 @@ void search()
 		}
 		if(f==0)
 			printf("Music not found");
-    {
-      
-      
-    }
 	}
 	
 }
